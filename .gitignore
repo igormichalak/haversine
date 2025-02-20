@@ -1,4 +1,6 @@
 /.idea/modules.xml
 /.idea/*.iml
 
+/build/
+
 *.json
